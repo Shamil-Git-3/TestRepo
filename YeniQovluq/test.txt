@@ -3,4 +3,6 @@ dunya
 LG-den yenilik 
 Mende oz deyisikliyimi etdim 
 LG den daha bir deyisiklik
-TestEdirem 
+TestEdirem
+Yeni deyisiklik etdim
+Daha bir desyisiklik
