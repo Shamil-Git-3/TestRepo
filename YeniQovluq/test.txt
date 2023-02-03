@@ -1,8 +1,6 @@
 salam 
 dunya 
-<<<<<<< HEAD
 LG-den yenilik 
-=======
 Mende oz deyisikliyimi etdim 
->>>>>>> bdc799b5ac7746ef9a084b26beb12f8701cc8c62
 LG den daha bir deyisiklik
+TestEdirem 
